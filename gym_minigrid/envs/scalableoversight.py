@@ -701,16 +701,16 @@ class ScalableOversightEnvVISUALISE(ScalableOversightEnv):
 
 
 register(
-    id='MiniGrid-ScalableOversightMessTRAINING-v0',
+    id='MiniGrid-ScalableOversightTRAINING-v0',
     entry_point='gym_minigrid.envs:ScalableOversightEnvTRAINING'
 )
 
 register(
-    id='MiniGrid-ScalableOversightMessTEST-v0',
+    id='MiniGrid-ScalableOversightTEST-v0',
     entry_point='gym_minigrid.envs:ScalableOversightEnvTEST'
 )
 
 register(
-    id='MiniGrid-ScalableOversightMessVISUALISE-v0',
+    id='MiniGrid-ScalableOversightVISUALISE-v0',
     entry_point='gym_minigrid.envs:ScalableOversightEnvVISUALISE'
 )

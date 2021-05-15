@@ -7,7 +7,7 @@ This forms the environment that I benchmarked agents against in my thesis.
 
 for a quick start on the SS environment, run 
 ``
-./manual_control.py --env MiniGrid-ScalableOversightMessVISUALISE-v0
+./manual_control.py --env MiniGrid-ScalableOversightVISUALISE-v0
 ``
 
 More details are the [file](gym_minigrid/envs/scalableoversight.py) and the thesis.
