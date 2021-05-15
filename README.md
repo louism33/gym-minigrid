@@ -3,7 +3,7 @@ With thanks to Maxime Chevalier-Boisvert (maximecb), author of the original http
 
 This fork of https://github.com/maximecb/gym-minigrid adds an environment for the AI Safety concern of Scalable Supervision [in this file](gym_minigrid/envs/scalableoversight.py). It also adds a [wrapper](gym_minigrid/wrappers.py) for partial observability, and some basic rendering in [rendering](gym_minigrid/rendering.py) and [minigrid](gym_minigrid/minigrid.py). 
 
-This forms the environment that I benchmarked agents against in my thesis.
+This forms the environment that I benchmarked agents against in my thesis, see https://github.com/louism33/rl-starter-files.
 
 for a quick start on the SS environment, run 
 ``
