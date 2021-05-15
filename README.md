@@ -5,6 +5,15 @@ This fork of https://github.com/maximecb/gym-minigrid adds an environment for th
 
 This forms the environment that I benchmarked agents against in my thesis.
 
+for a quick start on the SS environment, run 
+``
+./manual_control.py --env MiniGrid-ScalableOversightMessVISUALISE-v0
+``
+
+More details are the [file](gym_minigrid/envs/scalableoversight.py) and the thesis.
+
+  
+
 
 # Minimalistic Gridworld Environment (MiniGrid)
 
