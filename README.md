@@ -12,7 +12,7 @@ for a quick start on the SS environment, run
 
 More details are the [file](gym_minigrid/envs/scalableoversight.py) and the thesis.
 
-  
+You will need to use this in conjunction with https://github.com/louism33/torch-ac and https://github.com/louism33/gym-minigrid
 
 
 # Minimalistic Gridworld Environment (MiniGrid)
